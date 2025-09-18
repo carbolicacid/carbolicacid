@@ -64,10 +64,18 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carbolicacid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carbolicacid&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+  <a href="https://github.com/carb0licacid">
+    <img src="https://github-readme-stats.vercel.app/api?username=carbolicacid&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  </a>
+  
+  <a href="https://github.com/carb0licacid">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carbolicacid&show_icons=true&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+  </a>
+  
+  <a href="https://github.com/carb0licacid">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carbolicacid&theme=radical" alt="GitHub Streak" height="180em"/>
+  </a>
+
+</div>
