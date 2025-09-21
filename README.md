@@ -1,14 +1,14 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm Rafayet Ahammad</h1>
-<h3 align="center">🤖 Robotics Enthusiast | 💻 C++ Learner | 🔧 Tinkerer</h3>
+<h3 align="center">🤖 Robotics Enthusiast | 💻 Student Programmer | 🔧 Modeling & Simulation</h3>
 
 ---
 
 ## 🌟 About Me
 - 🔭 Exploring **Robotics and Automation**  
-- 🌱 Currently learning **C++, Microcontrollers & Microcomputers**  
+- 🌱 Currently learning **Programming, Microcontrollers & Microcomputers**  
 - 📫 Reach me at: **rafayetahammad3756@gmail.com**  
-- ⚡ Fun fact: *I proudly call myself a noob, but I love learning every day!*  
+- ⚡ Fun fact: *I proudly call myself a noob but I love learning every day!*  
 
 ---
 
