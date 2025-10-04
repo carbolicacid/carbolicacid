@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm Rafayet Ahammad</h1>
+<h1 align="center">Hey there👋, Name's Rafayet Ahammad</h1>
 <h3 align="center">🤖 Robotics Enthusiast | 💻 Student Programmer | 🔧 Modeling & Simulation</h3>
 
 ---
