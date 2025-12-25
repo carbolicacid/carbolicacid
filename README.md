@@ -38,7 +38,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=carbolicacid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbolicacid&theme=tokyonight&hide_border=true&layout=donut&show_icons=true&card_width=500" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbolicacid&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
