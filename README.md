@@ -1,50 +1,36 @@
-<h1 align="center">Rafayet Ahammad</h1>
-<h3 align="center">Electrical and Electronic Engineering Student | Robotics & Automation Enthusiast</h3>
-
-<p align="center">
-  Passionate about robotics, embedded systems, modeling & simulation, and control systems.<br>
-  Currently developing skills in programming, microcontrollers, and automation technologies.
-</p>
+<!-- Profile Header -->
+<h1 align="center">Hey there👋, Name's Rafayet Ahammad</h1>
+<h3 align="center">🤖 Robotics Enthusiast | 💻 Student Programmer | 🔧 Modeling & Simulation</h3>
 
 ---
-## Connect With Me
+## 🌟 About Me
+- 🔭 Exploring **Robotics and Automation**
+- 🌱 Currently learning **Programming, Microcontrollers & Microcomputers**
+- 📫 Reach me at: **rafayetahammad3756@gmail.com**
+- ⚡ Fun fact: *I proudly call myself a noob but I love learning every day!*
+
+---
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rafayet-ahammad-8292b1285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/rafayet.ahammad" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:rafayetahammad3756@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
-## Skills & Technologies
+## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,git,html,css,linux,matlab,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,html,linux,matlab,vscode" />
 </p>
 
 ---
-## GitHub Stats
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carbolicacid&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=carbolicacid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbolicacid&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-## Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carbolicacid&theme=tokyonight&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carbolicacid&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
