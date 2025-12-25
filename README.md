@@ -29,16 +29,16 @@
 ---
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carbolicacid&theme=transparent&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carbolicacid&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=carbolicacid&theme=transparent&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=carbolicacid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbolicacid&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbolicacid&theme=tokyonight&hide_border=true&layout=donut&show_icons=true&card_width=500" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -46,5 +46,5 @@
 ---
 ## Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carbolicacid&theme=minimal&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carbolicacid&theme=tokyonight&hide_border=true" alt="Contribution Graph"/>
 </p>
