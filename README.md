@@ -76,7 +76,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=carbolicacid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://img.shields.io/github/followers/carbolicacid?label=Followers&style=for-the-badge&color=2E9EF7" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/carbolicacid&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2E9EF7" alt="Public Repos"/>
   <img src="https://streak-stats.demolab.com?user=carbolicacid&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
