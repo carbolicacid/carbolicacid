@@ -73,15 +73,28 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 🎯 Current Focus & Goals
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carbolicacid/carbolicacid/main/generated/overview.svg" alt="GitHub Stats" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carbolicacid/carbolicacid/main/generated/languages.svg" alt="Top Languages" height="200"/>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h4>📚 Currently Learning</h4>
+      <ul>
+        <li>Embedded C for AVR & ARM microcontrollers</li>
+        <li>FPGA design fundamentals with Verilog</li>
+        <li>PCB layout best practices in KiCad</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🎯 Working Toward</h4>
+      <ul>
+        <li>Building a fully documented robotics project from schematic to firmware</li>
+        <li>Getting comfortable with control systems in MATLAB/Octave</li>
+        <li>Contributing to an open-source hardware project</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 📈 Contribution Graph
 
